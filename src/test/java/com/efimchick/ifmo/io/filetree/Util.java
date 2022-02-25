@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-public class  Util {
+public class Util {
 
 
     public void gen() {
